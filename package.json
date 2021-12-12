@@ -1,0 +1,10 @@
+{
+  "name": "slots",
+  "version": "1.0.0",
+  "description": "A slot machine.",
+  "main": "./src/index.js",
+  "types": "./src/index.d.ts",
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
