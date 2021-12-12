@@ -97,3 +97,6 @@ The lines from a slot machine play:
 - `diagonal` Whether or not the line is a diagonal.
 - `isWon` Whether or not the line is won.
 - `points` The amount of points this line would give.
+
+
+# This is a modified version of [slot-machine](https://npmjs.com/package/slot-machine)
